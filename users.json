@@ -1,0 +1,17 @@
+[
+  {
+    "userName": "Ronal",
+    "pin": "1234",
+    "dateOfBirth": "2000-10-10",
+    "balance": 1000.0,
+    "accountNumber": "094975800",
+    "routingNumber": "850583592",
+    "transactions": [
+      {
+        "type": "Deposit",
+        "amount": 1000.0,
+        "dateTime": "2025-04-28T23:26:56.390584100"
+      }
+    ]
+  }
+]
