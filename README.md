@@ -42,7 +42,7 @@ This project was initially created as a school project, but I decided to step it
 
 ## License
 
-MIT
+- MIT
 ---
 
 Thanks for checking out my project! If you like it, please give it a ⭐ on GitHub.
